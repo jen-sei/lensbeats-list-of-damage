@@ -16,8 +16,11 @@ Let's raise funds together and renumerate all the addresses that were effected b
 I have used [holders.at](https://holders.at/) to fetch all the holder addresses and you can verify the data here: https://holders.at/polygon/0x2d8ccea49fb2b88c45c8a8312f8f639b167713a0/34550100
 ___
 You can find and collect the post here: https://lenster.xyz/post...
+
+![Twitter post - 1](https://user-images.githubusercontent.com/101796507/196968810-c7246f69-0d8f-4a0c-a6e1-cd1049ac1bea.png)
+
 ___
-All **the funds** that we will crowfund together will be then **split and dispersed equally** to the effected wallets (using [Lensdrop](https://www.lensdrop.xyz/)). In case we raise more funds then the net worth of the scam, I suggest to donate the money to a project that wants to take music seriously and build on what lensbeats started but never finished.
+All **the funds** that we will crowfund together will be then **split and dispersed equally** to the effected wallets (using [Disperse](https://disperse.app/)). In case we raise more funds then the net worth of the scam, I suggest to donate the money to a project that wants to take music seriously and build on what lensbeats started but never finished.
 
 Let's spread the knowledge and awarness of such scams, and let's contribute towards the greater good together!
 ___
