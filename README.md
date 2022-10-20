@@ -17,7 +17,7 @@ I have used [holders.at](https://holders.at/) to fetch all the holder addresses 
 ___
 You can find and collect the post here: https://lenster.xyz/post...
 
-![Twitter post - 1](https://user-images.githubusercontent.com/101796507/196968810-c7246f69-0d8f-4a0c-a6e1-cd1049ac1bea.png)
+![Twitter post - 1 (1)](https://user-images.githubusercontent.com/101796507/196971568-fcef88ad-0cae-4398-964b-5cc06db3c8f7.png)
 
 ___
 All **the funds** that we will crowfund together will be then **split and dispersed equally** to the effected wallets (using [Disperse](https://disperse.app/)). In case we raise more funds then the net worth of the scam, I suggest to donate the money to a project that wants to take music seriously and build on what lensbeats started but never finished.
