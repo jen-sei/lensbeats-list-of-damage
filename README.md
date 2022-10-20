@@ -15,7 +15,7 @@ Let's raise funds together and renumerate all the addresses that were effected b
 
 I have used **holders.at** to fetch all the holder addresses and you can verify the data here: https://holders.at/polygon/0x2d8ccea49fb2b88c45c8a8312f8f639b167713a0/34550100
 ___
-You can find the post here: https://lenster.xyz/post...
+You can find and collect the post here: https://lenster.xyz/post...
 ___
 All **the funds** that we will crowfund together will be then **split and dispersed equally** to the effected wallets. In case we raise more funds then the net worth of the scam,
 I suggest to donate the money to a project that wants to take music seriously and build on what lensbeats started but never finished.
