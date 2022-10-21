@@ -22,6 +22,6 @@ You can find and collect the post here: https://lenster.xyz/post...
 ___
 All **the funds** that we will crowfund together will be then **split and dispersed equally** to the effected wallets (using [Disperse](https://disperse.app/)). In case we raise more funds then the net worth of the scam, I suggest to donate the money to a project that wants to take music seriously and build on what lensbeats started but never finished.
 
-Let's spread the knowledge and awarness of such scams, and let's contribute towards the greater good together!
+Let's spread the knowledge and awarness of such "rugs", and let's show that together we can coordinate and contribute towards the proactive instead of destructive enviroment and community building on Lens Protocol!
 ___
 **explorer:** jensei.lens🌿 (https://lensfrens.xyz/jensei.lens)
