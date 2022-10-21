@@ -1,7 +1,7 @@
 # On the "Token lensbeats.lens-Follower" topic.
 
 ### Hello Lens Frens 🌿
-As you may or may not seen, we have experienced what seems like the first rug pull on lens.
+As you may or may not seen, we have experienced what seems like the first rug pull on [lens](https://lens.xyz).
 There has been **15.034 wallets** that has followed **lensbeats.lens** over a quite short span of time, due to their promised incetives and future utility of the [$BEATS](https://polygonscan.com/token/0xc434a867aa0f88aef9422526996ee71bca263dd6) airdrop.
 
 There has been approximately **3.6k MATIC** to which many of us including me have contributed to. 
