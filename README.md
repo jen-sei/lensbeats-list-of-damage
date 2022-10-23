@@ -38,7 +38,7 @@ What tools can we build to assign profiles with a certain score and what would b
 
 Reputation scoring systems has been providing us with the ability to recognize trustworthiness of other users before interacting with them. It helps us to reduce the chances of fraud and scams. 
 
-How do we do this without infringing on the privacy of users? Is it just a feedback loop? Traditional eShop customer user reviews that helps us distinguish the actors? The ones flooded with bots? Surely there is a different path! 
+How do we do this without infringing on the privacy of users? Is it just a feedback loop? Traditional eShop customer user reviews that helps us distinguish the actors? The ones we see always flooded with bots? Surely there is a different path! 
 
 Is it a machine learning algorithm, where the computer system is trained to identify patterns in user behaviour? Could this be certain on-chain tasks for which the users receive points upon completion? 
 
