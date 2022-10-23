@@ -36,7 +36,7 @@ It seems like reputation is the topic to address.
 
 What tools can we build to assign profiles with a certain score and what would be the metrics of how to get reputation?
 
-The idea of a reputation scoring system has been providing us with the ability to recognize trustworthiness of other users before interacting with them. It helps us to reduce the chances of fraud and scams. 
+Reputation scoring systems has been providing us with the ability to recognize trustworthiness of other users before interacting with them. It helps us to reduce the chances of fraud and scams. 
 
 How do we do this without infringing on the privacy of users? Is it just a feedback loop? Traditional eShop customer user reviews that helps us distinguish the actors? The ones flooded with bots? Surely there is a different path! 
 
