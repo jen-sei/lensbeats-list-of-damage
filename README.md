@@ -40,7 +40,7 @@ Reputation scoring systems has been providing us with the ability to recognize t
 
 How do we do this without infringing on the privacy of users? Is it just a feedback loop? Traditional eShop customer user reviews that helps us distinguish the actors? The ones we see always flooded with bots? Surely there is a different path! 
 
-Is it a machine learning algorithm, where the computer system is trained to identify patterns in user behaviour? Is this a certain on-chain action? Are we going to prove credibility based on followers and their individual score? Will this score become a social collateral to lend against? What happens when you get liquidated? Are you willing to stake your relationships and network status to back up what you say or relate to?
+Is it a machine learning algorithm, where the computer system is trained to identify patterns in user behaviour? Is this a certain on-chain action? Are we going to prove credibility based on followers and their individual score? Will this score become a social collateral to lend against? What happens when you get liquidated? Are you willing to stake your relationships and network status to back up what you say or relate to? Should you?
 
 How many degrees of separation do we need to assess the trustworthiness of an individual? Now we have some tools to not only keep track but to co-own our connections and share the relations! Let's explore.
 
