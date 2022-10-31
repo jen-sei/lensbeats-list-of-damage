@@ -20,7 +20,7 @@ Let's raise funds together and remunerate all the addresses that were affected b
 
 I have used [holders.at](https://holders.at/) to fetch all the holder addresses, and you can verify the data here: https://holders.at/polygon/0x2d8ccea49fb2b88c45c8a8312f8f639b167713a0/34550100
 ___
-You can find and collect the post here: https://lenster.xyz/post...
+You can find and collect the post here: [https://lenster.xyz/post...](https://lenster.xyz/posts/0x18ab-0x86)
 
 ![Twitter post - 1 (1)](https://user-images.githubusercontent.com/101796507/196971568-fcef88ad-0cae-4398-964b-5cc06db3c8f7.png)
 
