@@ -8,7 +8,7 @@ There has been approximately **3.6k MATIC** raised. Many of us, including me, ha
 ___
 For anyone interested the address of the **attacker** is: [0xB430049F8dF3d3883Df96F784dEE5C0f5596c45B](https://polygonscan.com/address/0xb430049f8df3d3883df96f784dee5c0f5596c45b)
 
-*UPDATE: Since then, the funds have been moved to a [new wallet](https://polygonscan.com/address/0x3c3c7392cdd2903e1eaef1cc18b9f7e778f78fd5), followed by a transfer to what seems like an [exchange account](https://polygonscan.com/address/0x576b81f0c21edbc920ad63feeeb2b0736b018a58).
+**UPDATE:** Since then, the funds have been moved to a [new wallet](https://polygonscan.com/address/0x3c3c7392cdd2903e1eaef1cc18b9f7e778f78fd5), followed by a transfer to what seems like an [exchange account](https://polygonscan.com/address/0x576b81f0c21edbc920ad63feeeb2b0736b018a58).
 
 ___
 
@@ -16,7 +16,7 @@ ___
 ![image](https://user-images.githubusercontent.com/101796507/197407391-b744411e-abae-4be9-bf7d-ad0d7d3d87d0.png)
 ___
 ### What is the plan?
-Let's raise funds together and remunerate all the addresses that were affected by the unfortunate use of our growing decentralized social graph. I have created a list of all holders of the **"lensbeats.lens-F"**. I aim to raise funds through the collect module enabled post on Lens Protocol **(1 Collect = 1 MATIC)**. 
+Let's raise funds together and remunerate all the addresses that were affected by the unfortunate use of our growing decentralized social graph. I have created a list of all holders of the **"lensbeats.lens-F"**. I aim to raise funds through the collect module enabled post on Lens Protocol **(1 Collect = 1 WMATIC, 2 WMATIC)**. 
 
 I have used [holders.at](https://holders.at/) to fetch all the holder addresses, and you can verify the data here: https://holders.at/polygon/0x2d8ccea49fb2b88c45c8a8312f8f639b167713a0/34550100
 ___
@@ -24,9 +24,9 @@ You can find and collect the first post here: [https://lenster.xyz/post...](http
 
 ![Twitter post - 1 (1)](https://user-images.githubusercontent.com/101796507/196971568-fcef88ad-0cae-4398-964b-5cc06db3c8f7.png)
 
-and the second post here: []()
+and the second post here: [https://lenster.xyz/posts/0x18ab-0x9e](https://lenster.xyz/posts/0x18ab-0x9e)
 
-
+![lensbeats track](https://user-images.githubusercontent.com/101796507/203852647-c5234119-d64f-4cfb-946e-e66ed4a71db5.jpg)
 
 ___
 All **the funds** that we will crowdfund together will then be **split and dispersed equally** to the affected wallets (using [Disperse](https://disperse.app/)). In case we raise more funds then the net worth of the scam, I suggest donating the money to a project that wants to take music seriously and build on what lensbeats started but never finished.
