@@ -20,12 +20,18 @@ Let's raise funds together and remunerate all the addresses that were affected b
 
 I have used [holders.at](https://holders.at/) to fetch all the holder addresses, and you can verify the data here: https://holders.at/polygon/0x2d8ccea49fb2b88c45c8a8312f8f639b167713a0/34550100
 ___
-You can find and collect the post here: [https://lenster.xyz/post...](https://lenster.xyz/posts/0x18ab-0x86)
+You can find and collect the first post here: [https://lenster.xyz/post...](https://lenster.xyz/posts/0x18ab-0x86)
 
 ![Twitter post - 1 (1)](https://user-images.githubusercontent.com/101796507/196971568-fcef88ad-0cae-4398-964b-5cc06db3c8f7.png)
 
+and the second post here: []()
+
+
+
 ___
 All **the funds** that we will crowdfund together will then be **split and dispersed equally** to the affected wallets (using [Disperse](https://disperse.app/)). In case we raise more funds then the net worth of the scam, I suggest donating the money to a project that wants to take music seriously and build on what lensbeats started but never finished.
+
+*EDIT: After [@punkess.lens](https://lenster.xyz/posts/0x0f85-0x0503) pointed out the discrepancies of equal distribution in first post, it makes sense to adjust the distribution strategy after we reach 150.34 $WMATIC collected (equal to 0.01 per wallet). We will look at the most affected wallets and derive from there.
 
 Let's spread the knowledge and awareness of such "rugs", and let's show that together we can coordinate and contribute towards the proactive, instead of destructive environment and community building on Lens Protocol!
 
